@@ -1,0 +1,25 @@
+Gaussian Probability Plot
+
+Tuesday, 16 February 2016, 22.50
+
+Unweighted constrained simplex regression
+
+Gradient:  1.0           s.e. 0.2062
+Intercept: 1.3639E-6     s.e. 3.4014
+
+Correlation Coefficient, r: 0.9375
+Critical Value for r:       0.1353
+Significance level used:    5.0%
+Sum of squares:             1.5689
+
+Best Estimates of the Parameters
+mu:     16.4921     'pseudo-linear' s.e. 0.0819
+sigma:  0.3987      'pseudo-linear' s.e. 0.0822
+
+The 'pseudo-linear' s.e.s are a lower limit to the s.e. and may significantly underestimate the s.e.
+See documentation, http://www.ee.ucl.ac.uk/~mflanaga/java/ProbabilityPlot.html, for details
+
+'Pseudo-linear' Parameter-Parameter Correlation Coefficients
+        mu          sigma       
+mu      1.0         1.8126E-8   
+sigma   1.8126E-8   1.0         
